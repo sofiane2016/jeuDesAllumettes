@@ -2,9 +2,11 @@
 
 # Procedure à suivre 
 
+récuperer le projet et decompresser les dossiers compressés (le fihier zip vous pouvez les supprimer une fois dezipé)
+
 ## Lancement en local (dev)
 
-positionner au niveau du projet récupérer en utilisant la console cmd, ensuite tapez `npm install` pour l'installation des dépendance et après `ng serve` pour le démarrage du serveur.
+positionner au niveau du projet récupéré en utilisant la console cmd, ensuite tapez `npm install` pour l'installation des dépendance et après `ng serve` pour le démarrage du serveur.
 
 Visualiser le test sur `http://localhost:4200/` de votre browser pour accèder au jeu.
 
